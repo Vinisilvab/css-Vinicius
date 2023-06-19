@@ -1,0 +1,19 @@
+.grid{
+    max-width: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    display: grid;
+}
+.item{
+    margin: 5px;
+    background-color: green;
+    text-align: center;
+    font-size: 1.5em;
+}
+.Grid-tample-columns-1{
+    grid-template-columns: 200px 200px 200px;
+
+}
+.Grid-tample-columns-2{
+    grid-template-columns: 1fr 2fr;
+}

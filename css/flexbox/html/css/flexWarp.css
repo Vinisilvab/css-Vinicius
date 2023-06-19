@@ -1,0 +1,14 @@
+.caixa > div{
+    background-color: aqua;
+    height: 100px;
+    margin: 10px;
+    padding: 20px;
+    width: 100px;
+}
+.caixa{
+    width: 1000px;
+    background-color: rgb(169, 205, 133);
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}

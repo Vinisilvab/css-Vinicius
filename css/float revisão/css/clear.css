@@ -1,0 +1,15 @@
+.div1, .div3{
+    border: 2px solid #73ad21;
+    float: left;
+    padding: 10px;
+}
+.div2{
+    border: 2px solid red;
+    padding: 10px;
+}
+.div4{
+    border: 2px solid red;
+    clear: left;
+    padding: 10px;
+
+}

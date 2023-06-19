@@ -1,0 +1,31 @@
+.headerImagem{
+    background-image: url(../imagens/jungfrau.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.seçao1{
+    display: flex;
+    justify-content: space-around;
+    background-color: #DCDCDC;
+    padding: 8px;
+}
+.divT{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid black;
+    padding: 0 4px 0 4px;
+}
+button{
+    border-style: none;
+    background-color: #DCDCDC;
+}
